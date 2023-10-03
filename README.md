@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for the Sales Analysis of Dominos Pizza data, including the creation of a dashboard showing critical information in both Excel and Power BI.
 
-## Dataset: [Link](pizza_sales.xlsx)
+## Dataset: [Link](Data)
 
 The dataset used for this analysis comprises multiple columns, which provide insights into Dominos Pizza sales performance. Here are the details of the columns used for this analysis:
 
