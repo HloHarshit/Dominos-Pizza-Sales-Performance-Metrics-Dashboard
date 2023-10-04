@@ -1,6 +1,6 @@
 # Dominos Pizza Sales Performance Metrics Dashboard
 
-This repository contains the code and documentation for the Sales Analysis of Dominos Pizza data, including the creation of a dashboard showing critical information in both Excel and Power BI.
+This repository contains the documentation for the Sales Analysis of Dominos Pizza data, including the creation of a dashboard showing critical information in both Excel and Power BI.
 
 ## Dataset: [Link](Data)
 
